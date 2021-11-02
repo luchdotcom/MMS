@@ -88,3 +88,7 @@ int arr[100];
     }
 
 }
+int triangleCalc(unsigned a, unsigned b, unsigned c, double* area, double* perimeter){
+
+
+}
